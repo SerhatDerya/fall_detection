@@ -61,6 +61,7 @@ The system calculates:
 - **FN** = False Negatives (*Fall - Not Detected*)  
 
 ## 🔧 Requirements
+- **TensorFlow**
 - **PyTorch**  
 - **OpenCV**  
 - **Matplotlib**  
